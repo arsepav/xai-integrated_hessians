@@ -1,5 +1,7 @@
-torch>=1.12.0
-transformers>=4.20.0
-numpy
-matplotlib
-scikit-learn
+torch==2.6.0
+transformers==4.38.0
+numpy==2.0.2
+matplotlib==3.10.0
+scikit-learn==1.6.1
+datasets
+accelerate==0.28.0
